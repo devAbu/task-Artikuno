@@ -1,0 +1,27 @@
+{
+  "name": "task-artikuno",
+  "version": "1.0.0",
+  "description": "Project for the Full-Stack Developer Position at Artikuno",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devAbu/task-Artikuno.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devAbu/task-Artikuno/issues"
+  },
+  "homepage": "https://github.com/devAbu/task-Artikuno#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.0",
+    "mongoose": "^6.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
